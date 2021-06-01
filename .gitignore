@@ -1,0 +1,6 @@
+Case_*/
+tmp/
+__pycache__/
+.vscode/
+*.npy
+*.cgns
